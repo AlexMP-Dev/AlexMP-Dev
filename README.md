@@ -1,4 +1,4 @@
-<h1>Hola, soy [su nombre aquí] 👋</h1>
+<h1>Hola, soy AlexMP-Dev 👋</h1>
 <p>Soy un desarrollador móvil apasionado por la creación de aplicaciones y la integración de APIs. Me dedico a generar mis propias aplicaciones y aprender en el proceso. Actualmente me encuentro desarrollando una aplicación vinculada a ChatGPT para realizar consultas y generar imágenes.</p>
 
 <h2>Habilidades y lenguajes de programación</h2>
