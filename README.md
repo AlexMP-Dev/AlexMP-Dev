@@ -16,7 +16,7 @@
 
 <h2>Contacto</h2>
 <ul>
-<li>Correo electrónico: <a href="mailto:e70205523@gmail.com">e70205523@gmail.com</a></li>
+<li>Correo electrónico: <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTthhkZHkjFxwfdCMqxhBpTMMSmZKkPPgkHbjbRXkwvpsdpQbKrhBrNjkfSGmbPzPwSnNw">e70205523@gmail.com</a></li>
 <li>Número de teléfono: <a href="https://api.whatsapp.com/send?phone=51936895844&text=hola%20he%20visto%20tu%20perfil%20de%20github%2C%20%5Blo%20que%20quieras%20decirme%20%3A3%5D">+51936895844</a></li>
 </ul>
 
