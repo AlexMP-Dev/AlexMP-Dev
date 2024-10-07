@@ -1,75 +1,26 @@
-# Nuxt UI Minimal Starter
+<h1>Hola, soy AlexMP-Dev 👋</h1>
+<p>Soy un desarrollador móvil apasionado por la creación de aplicaciones y la integración de APIs. Me dedico a generar mis propias aplicaciones y aprender en el proceso. Actualmente me encuentro desarrollando una aplicación vinculada a ChatGPT para realizar consultas y generar imágenes.</p>
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
+<h2>Habilidades y lenguajes de programación</h2>
+<ul>
+<li>Creatividad</li>
+<li>Enfoque</li>
+<li>Retroalimentación personal</li>
+<li>Flutter</li>
+<li>Java</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+<h2>Contribución</h2>
+<p>Actualmente estoy desarrollando aplicaciones para mí mismo y estoy abierto a colaboraciones y contribuciones en proyectos emocionantes.</p>
 
-## Setup
+<h2>Contacto</h2>
+<ul>
+<li>Correo electrónico: <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTthhkZHkjFxwfdCMqxhBpTMMSmZKkPPgkHbjbRXkwvpsdpQbKrhBrNjkfSGmbPzPwSnNw">e70205523@gmail.com</a></li>
+<li>Número de teléfono: <a href="https://api.whatsapp.com/send?phone=51936895844&text=hola%20he%20visto%20tu%20perfil%20de%20github%2C%20%5Blo%20que%20quieras%20decirme%20%3A3%5D">+51936895844</a></li>
+</ul>
 
-Make sure to install the dependencies:
+<h2>Adicional</h2>
+<p>Soy un desarrollador Flutter junior-medio y estoy publicando mi primera aplicación en PlayStore. Siempre estoy buscando oportunidades para mejorar mis habilidades y aprender cosas nuevas.</p>
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<p>¡Gracias por visitar mi perfil de GitHub! No dude en ponerse en contacto conmigo si está interesado en mi trabajo o si desea colaborar en algún proyecto.</p>
